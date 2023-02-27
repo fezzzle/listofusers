@@ -1,11 +1,11 @@
 # User Management Table
 
 This project is a user management table built with HTML, CSS, and JavaScript. It fetches user data from JSONPlaceholder API and displays it in a table. The table allows users to filter by name and remove users.
-Installation
+## Installation
 
-## To install and run the project, follow these steps:
+#### To install and run the project, follow these steps:
 
-1. Clone the repository: git clone git@github.com:fezzzle/listofusers.git
+1. Clone the repository: git clone `git@github.com:fezzzle/listofusers.git`
 2. Open the index.html file in a web browser.
 
 Alternatively, you can view the live demo https://fezzzle.github.io/listofusers/
