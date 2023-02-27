@@ -5,7 +5,7 @@ This project is a user management table built with HTML, CSS, and JavaScript. It
 
 #### To install and run the project, follow these steps:
 
-1. Clone the repository: git clone `git@github.com:fezzzle/listofusers.git`
+1. Clone the repository: `git clone git@github.com:fezzzle/listofusers.git`
 2. Open the index.html file in a web browser.
 
 Alternatively, you can view the live demo https://fezzzle.github.io/listofusers/
